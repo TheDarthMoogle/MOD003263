@@ -1,0 +1,6 @@
+Presentation,4,Wicked Sick,Cool,Sketchy,Dread
+Punctuality,2,Punctual,Late
+Attitude,3,Groovy,Relaxed,Booooring
+Personality,2,Some,None
+Responses,3,Snappy,Witty,Total Bollocks
+Honesty,4,Really,Can't,Be,Arsed

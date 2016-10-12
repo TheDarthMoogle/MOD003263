@@ -1,0 +1,9 @@
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\bin\Debug\FormsTest.exe.config
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\bin\Debug\FormsTest.exe
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\bin\Debug\FormsTest.pdb
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\obj\Debug\FormsTest.csprojResolveAssemblyReference.cache
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\obj\Debug\FormsTest.Form1.resources
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\obj\Debug\FormsTest.Properties.Resources.resources
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\obj\Debug\FormsTest.csproj.GenerateResource.Cache
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\obj\Debug\FormsTest.exe
+C:\Users\Moogle\Documents\CODING SHIT\FormsTest\FormsTest\obj\Debug\FormsTest.pdb

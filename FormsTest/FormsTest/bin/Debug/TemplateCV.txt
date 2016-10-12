@@ -1,0 +1,7 @@
+Experience,2,Good,Bad
+Qualifications,3,Good,Satisfactory,Bad
+Achievements,3,Good,Satisfactory, Bad
+Relevance,5,Fantastic,Good,Satisfactory,Bad,Pants
+Formatting,4,Scandalous,Great,Meh,Lolwut 
+Contact Details,2,Here,Not Here
+References,3,WOW,Yup,NOPE
